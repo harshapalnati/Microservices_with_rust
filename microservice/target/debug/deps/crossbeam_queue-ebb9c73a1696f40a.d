@@ -1,0 +1,10 @@
+C:\Users\Harsha\Desktop\harsha\rust\microservices\microservice\target\debug\deps\libcrossbeam_queue-ebb9c73a1696f40a.rmeta: C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\lib.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\err.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\Harsha\Desktop\harsha\rust\microservices\microservice\target\debug\deps\libcrossbeam_queue-ebb9c73a1696f40a.rlib: C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\lib.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\err.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\Harsha\Desktop\harsha\rust\microservices\microservice\target\debug\deps\crossbeam_queue-ebb9c73a1696f40a.d: C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\lib.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\err.rs C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\lib.rs:
+C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\array_queue.rs:
+C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\err.rs:
+C:\Users\Harsha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-queue-0.2.3\src\seg_queue.rs:
